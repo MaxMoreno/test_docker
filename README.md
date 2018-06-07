@@ -1,2 +1,2 @@
-# test_docker
-test docker miweb
+# cursodocker-website
+Sitio web de ejemplo utilizado en el curso de Docker
